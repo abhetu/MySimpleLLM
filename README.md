@@ -12,7 +12,7 @@ pip
 Setup and Installation
 Clone the Repository:
 bash
-git clone https://github.com/yourusername/my-simple-llm.git
+git clone https://github.com/abhetu/MySimpleLLM.git
 cd my-simple-llm
 
 Create a Virtual Environment (Optional but Recommended):
