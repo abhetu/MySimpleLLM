@@ -20,7 +20,7 @@ This project is a basic implementation of an AI Language Model (LLM) using a pre
 
 
 2. **Create a Virtual Environment (Optional but Recommended)**:
-    python3 -m venv venv
+    python3 -m venv venv <br>
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 
