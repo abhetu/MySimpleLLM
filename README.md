@@ -19,12 +19,13 @@ This project is a basic implementation of an AI Language Model (LLM) using a pre
     cd my-simple-llm
 
 
-2. **Create a Virtual Environment (Optional but Recommended)**:
+2. **Create a Virtual Environment (Optional but Recommended)**:<br>
     python3 -m venv venv <br>
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate <br>
+    # On Windows, use `venv\Scripts\activate`
 
 
-3. **Install the Required Packages**:
+4. **Install the Required Packages**:
     pip install -r requirements.txt
 
 ## Running the Application
