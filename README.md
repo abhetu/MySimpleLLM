@@ -15,8 +15,8 @@ This project is a basic implementation of an AI Language Model (LLM) using a pre
 ## Setup and Installation
 
 1. **Clone the Repository**:
-    git clone https://github.com/abhetu/MySimpleLLM.git
-    cd my-simple-llm
+    `git clone https://github.com/abhetu/MySimpleLLM.git`<br>
+    `cd my-simple-llm` <br>
 
 
 2. **Create a Virtual Environment (Optional but Recommended)**:<br>
@@ -26,7 +26,7 @@ This project is a basic implementation of an AI Language Model (LLM) using a pre
 
 
 4. **Install the Required Packages**:
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`<br>
 
 ## Running the Application
 
