@@ -8,7 +8,6 @@ This project is a basic implementation of an AI Language Model (LLM) using a pre
 - **REST API**: A simple Flask-based API to interact with the model.
 
 ## Requirements
-
 - Python 3.7+
 - pip
 
